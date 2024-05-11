@@ -1,3 +1,3 @@
-<p>my newe college i
+<p>my newe college 
   <br>
-  hope you will understand</p>
+i hope you will understand</p>
